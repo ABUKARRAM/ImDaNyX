@@ -1,6 +1,0 @@
-?token=NTczNTU1MTg2Njg2MjMwNTQ0.XMwjPw.--QwmYtvnlrzuY5RPrvAveHUzpE
-owner=368007427250978816
-prefix=!d
-game=!dhelp
-stayinchannel=true
-songinstatus=true 
